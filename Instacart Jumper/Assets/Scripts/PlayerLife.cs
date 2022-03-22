@@ -30,7 +30,7 @@ public class PlayerLife : MonoBehaviour
     }
 
     // Function for "killing" the player
-    private void Die()
+    public void Die()
     {
         rigidbody.bodyType = RigidbodyType2D.Static;
         anim.SetTrigger("death");
