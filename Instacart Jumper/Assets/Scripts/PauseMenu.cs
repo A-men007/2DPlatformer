@@ -7,18 +7,18 @@ public class PauseMenu : MonoBehaviour
 {
 
     [SerializeField] GameObject pauseMenu;
-    [SerializeField] AudioSource bgMusic;
+    //[SerializeField] AudioSource bgMusic;
 
     public void Pause()
     {
-        bgMusic.Pause();
+        //bgMusic.Pause();
         pauseMenu.SetActive(true);
         Time.timeScale = 0f;
     }
 
     public void Resume()
     {
-        bgMusic.Play();
+        //bgMusic.Play();
         pauseMenu.SetActive(false);
         Time.timeScale = 1f;
     }
