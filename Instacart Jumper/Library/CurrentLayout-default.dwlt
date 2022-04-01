@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1349
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 48
+  controlID: 115
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -229,7 +229,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 49
+  controlID: 124
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -254,7 +254,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 50
+  controlID: 125
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -407,7 +407,7 @@ MonoBehaviour:
     m_CachedPref: 50
     m_ControlHash: 1964396721
     m_PrefName: Preview_TilemapBrushInspector
-  m_Palette: {fileID: 489948000680528562, guid: 872d637c0f873954a8e553a2934e2efc, type: 3}
+  m_Palette: {fileID: 7972803243283809898, guid: 8606bce9ff9d50946b77f80b24f90c24, type: 3}
   m_DrawGizmos: 0
 --- !u!114 &14
 MonoBehaviour:
@@ -497,22 +497,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scene
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 90
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scene
   m_LastFoldersGridSize: 90
   m_LastProjectPath: C:\Users\Daniel\Desktop\University\CS 4483\Instacart Jumper
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 88480000
-    m_LastClickedID: 18568
-    m_ExpandedIDs: 000000005a4800005c4800005e48000060480000624800006448000066480000684800006a48000000ca9a3b
+    m_SelectedIDs: 2a490000
+    m_LastClickedID: 18730
+    m_ExpandedIDs: 00000000f2480000f4480000f6480000f8480000fa480000fc480000fe4800000049000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -540,7 +540,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005a4800005c4800005e48000060480000624800006448000066480000684800006a480000
+    m_ExpandedIDs: 00000000f2480000f4480000f6480000f8480000fa480000fc480000fe48000000490000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -567,7 +567,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300001458000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -661,9 +661,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 40faffff
-      m_LastClickedID: -1472
-      m_ExpandedIDs: 60fbffff
+      m_SelectedIDs: 64490000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 26d4ffffbad7ffffb2dfffffd0e4ffffa4e6ffff2cebffff86ebffff90efffff1af2ffff92f3ffff42f6ffff54f9ffff60fbffffe06f0000307200005c720000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -723,9 +723,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 7.002522, y: 14.322239, z: -372.96094}
+    m_Target: {x: 65.635605, y: 12.344742, z: -257.9673}
     speed: 2
-    m_Value: {x: 7.002522, y: 14.322239, z: -372.96094}
+    m_Value: {x: 65.635605, y: 12.344742, z: -257.9673}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -776,9 +776,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 22.616005
+    m_Target: 44.25289
     speed: 2
-    m_Value: 22.616005
+    m_Value: 44.25289
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -869,23 +869,23 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 0
+      y: 21
       width: 1615
-      height: 810
-    m_Scale: {x: 0.5625, y: 0.5625}
-    m_Translation: {x: 807.5, y: 405}
+      height: 789
+    m_Scale: {x: 0.54791665, y: 0.54791665}
+    m_Translation: {x: 807.5, y: 394.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1435.5555
+      x: -1473.7643
       y: -720
-      width: 2871.111
+      width: 2947.5286
       height: 1440
     m_MinimalGUI: 1
-  m_defaultScale: 0.5625
+  m_defaultScale: 0.54791665
   m_LastWindowPixelSize: {x: 1615, y: 810}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
