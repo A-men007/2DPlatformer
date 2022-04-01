@@ -17,7 +17,6 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
     - UnityEditor.U2D.IK.IKEditorManager
-    - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
     - UnityEditor.Tilemaps.GridBrushEditor
@@ -25,7 +24,6 @@ ScriptsOnlyBuild:
     - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
-    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.PaintableSceneViewGrid
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.SceneViewOpenTilePaletteHelper
@@ -70,21 +68,23 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1448}
+      Script: {instanceID: 1454}
     - Class: 114
-      Script: {instanceID: 1498}
+      Script: {instanceID: 1508}
     - Class: 114
-      Script: {instanceID: 2312}
+      Script: {instanceID: 2586}
     - Class: 114
-      Script: {instanceID: 2426}
+      Script: {instanceID: 2748}
     - Class: 114
-      Script: {instanceID: 2592}
+      Script: {instanceID: 2962}
     - Class: 114
-      Script: {instanceID: 2776}
+      Script: {instanceID: 3190}
     - Class: 114
-      Script: {instanceID: 2864}
+      Script: {instanceID: 3308}
     - Class: 114
-      Script: {instanceID: 3528}
+      Script: {instanceID: 3726}
+    - Class: 114
+      Script: {instanceID: 4224}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -135,39 +135,39 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 616}
+      Script: {instanceID: 622}
     - Class: 114
-      Script: {instanceID: 1448}
+      Script: {instanceID: 1454}
     - Class: 114
-      Script: {instanceID: 1498}
+      Script: {instanceID: 1508}
     - Class: 114
-      Script: {instanceID: 2140}
+      Script: {instanceID: 2344}
     - Class: 114
-      Script: {instanceID: 2312}
+      Script: {instanceID: 2586}
     - Class: 114
-      Script: {instanceID: 2366}
+      Script: {instanceID: 2658}
     - Class: 114
-      Script: {instanceID: 2426}
+      Script: {instanceID: 2748}
     - Class: 114
-      Script: {instanceID: 2592}
+      Script: {instanceID: 2962}
     - Class: 114
-      Script: {instanceID: 2776}
+      Script: {instanceID: 3190}
     - Class: 114
-      Script: {instanceID: 2798}
+      Script: {instanceID: 3216}
     - Class: 114
-      Script: {instanceID: 2864}
+      Script: {instanceID: 3308}
     - Class: 114
-      Script: {instanceID: 2998}
+      Script: {instanceID: 3486}
     - Class: 114
-      Script: {instanceID: 3032}
+      Script: {instanceID: 3542}
     - Class: 114
-      Script: {instanceID: 3054}
+      Script: {instanceID: 3570}
     - Class: 114
-      Script: {instanceID: 3154}
+      Script: {instanceID: 3726}
     - Class: 114
-      Script: {instanceID: 3738}
+      Script: {instanceID: 4512}
     - Class: 114
-      Script: {instanceID: 4276}
+      Script: {instanceID: 5254}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -230,39 +230,39 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 616}
+      Script: {instanceID: 622}
     - Class: 114
-      Script: {instanceID: 1448}
+      Script: {instanceID: 1454}
     - Class: 114
-      Script: {instanceID: 1498}
+      Script: {instanceID: 1508}
     - Class: 114
-      Script: {instanceID: 1958}
+      Script: {instanceID: 2092}
     - Class: 114
-      Script: {instanceID: 2140}
+      Script: {instanceID: 2344}
     - Class: 114
-      Script: {instanceID: 2312}
+      Script: {instanceID: 2586}
     - Class: 114
-      Script: {instanceID: 2366}
+      Script: {instanceID: 2658}
     - Class: 114
-      Script: {instanceID: 2426}
+      Script: {instanceID: 2748}
     - Class: 114
-      Script: {instanceID: 2592}
+      Script: {instanceID: 2962}
     - Class: 114
-      Script: {instanceID: 2776}
+      Script: {instanceID: 3190}
     - Class: 114
-      Script: {instanceID: 2798}
+      Script: {instanceID: 3216}
     - Class: 114
-      Script: {instanceID: 2864}
+      Script: {instanceID: 3308}
     - Class: 114
-      Script: {instanceID: 2998}
+      Script: {instanceID: 3486}
     - Class: 114
-      Script: {instanceID: 3054}
+      Script: {instanceID: 3570}
     - Class: 114
-      Script: {instanceID: 3154}
+      Script: {instanceID: 3726}
     - Class: 114
-      Script: {instanceID: 3738}
+      Script: {instanceID: 4512}
     - Class: 114
-      Script: {instanceID: 4276}
+      Script: {instanceID: 5254}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -323,39 +323,39 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 616}
+      Script: {instanceID: 622}
     - Class: 114
-      Script: {instanceID: 1448}
+      Script: {instanceID: 1454}
     - Class: 114
-      Script: {instanceID: 1498}
+      Script: {instanceID: 1508}
     - Class: 114
-      Script: {instanceID: 2140}
+      Script: {instanceID: 2344}
     - Class: 114
-      Script: {instanceID: 2312}
+      Script: {instanceID: 2586}
     - Class: 114
-      Script: {instanceID: 2366}
+      Script: {instanceID: 2658}
     - Class: 114
-      Script: {instanceID: 2426}
+      Script: {instanceID: 2748}
     - Class: 114
-      Script: {instanceID: 2592}
+      Script: {instanceID: 2962}
     - Class: 114
-      Script: {instanceID: 2776}
+      Script: {instanceID: 3190}
     - Class: 114
-      Script: {instanceID: 2798}
+      Script: {instanceID: 3216}
     - Class: 114
-      Script: {instanceID: 2864}
+      Script: {instanceID: 3308}
     - Class: 114
-      Script: {instanceID: 2998}
+      Script: {instanceID: 3486}
     - Class: 114
-      Script: {instanceID: 3032}
+      Script: {instanceID: 3542}
     - Class: 114
-      Script: {instanceID: 3054}
+      Script: {instanceID: 3570}
     - Class: 114
-      Script: {instanceID: 3154}
+      Script: {instanceID: 3726}
     - Class: 114
-      Script: {instanceID: 3738}
+      Script: {instanceID: 4512}
     - Class: 114
-      Script: {instanceID: 4276}
+      Script: {instanceID: 5254}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -402,23 +402,23 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1448}
+      Script: {instanceID: 1454}
     - Class: 114
-      Script: {instanceID: 1498}
+      Script: {instanceID: 1508}
     - Class: 114
-      Script: {instanceID: 2312}
+      Script: {instanceID: 2586}
     - Class: 114
-      Script: {instanceID: 2426}
+      Script: {instanceID: 2748}
     - Class: 114
-      Script: {instanceID: 2592}
+      Script: {instanceID: 2962}
     - Class: 114
-      Script: {instanceID: 2776}
+      Script: {instanceID: 3190}
     - Class: 114
-      Script: {instanceID: 2864}
+      Script: {instanceID: 3308}
     - Class: 114
-      Script: {instanceID: 3030}
+      Script: {instanceID: 3536}
     - Class: 114
-      Script: {instanceID: 3528}
+      Script: {instanceID: 4224}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -462,6 +462,12 @@ ScriptsOnlyBuild:
     className: TMP_InputField
   - hash:
       serializedVersion: 2
+      Hash: 71b711096c6c32621c1d4c02310898b7
+    assemblyName: Unity.2D.Animation.Runtime.dll
+    namespaceName: UnityEngine.U2D.Animation
+    className: SpriteSkin
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -472,6 +478,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 59ce5902048c1041729c804e2772b2ce
+    assemblyName: Unity.2D.IK.Runtime.dll
+    namespaceName: UnityEngine.U2D.IK
+    className: CCDSolver2D
   - hash:
       serializedVersion: 2
       Hash: 0dbc3be398b4869a5c8d0d8481ee402c
@@ -544,6 +556,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: cfdd0010efd7b54c2b7512656dbc9119
+    assemblyName: Unity.2D.IK.Runtime.dll
+    namespaceName: UnityEngine.U2D.IK
+    className: IKManager2D
   - hash:
       serializedVersion: 2
       Hash: a1aa98c78061c6f03a8c124cda576e67
@@ -622,6 +640,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 9b2d72155209a515197b0788f9f11a91
+    assemblyName: Unity.2D.IK.Runtime.dll
+    namespaceName: UnityEngine.U2D.IK
+    className: LimbSolver2D
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -798,6 +822,12 @@ ScriptsOnlyBuild:
     className: EventTrigger
   - hash:
       serializedVersion: 2
+      Hash: 87cef3c82381dc586f6772c3e27561b6
+    assemblyName: Unity.2D.Animation.Runtime.dll
+    namespaceName: UnityEngine.Experimental.U2D.Animation
+    className: SpriteLibrary
+  - hash:
+      serializedVersion: 2
       Hash: a81d4c2c1cf3ad164d277d927a193679
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -826,6 +856,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: b424b4eeb810aecb0ff91c62639241e9
+    assemblyName: Unity.2D.Animation.Runtime.dll
+    namespaceName: UnityEngine.Experimental.U2D.Animation
+    className: SpriteResolver
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
@@ -882,6 +918,18 @@ ScriptsOnlyBuild:
     className: TMP_Settings
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.2D.Animation.Runtime.dll
+    namespaceName: UnityEngine.U2D.Animation
+    className: SpriteSkinEntity
+  - hash:
+      serializedVersion: 2
+      Hash: 28cfb4bd305dd11c6326cc3ee7c14138
+    assemblyName: Unity.2D.Animation.Runtime.dll
+    namespaceName: UnityEngine.Experimental.U2D.Animation
+    className: SpriteLibraryAsset
+  - hash:
+      serializedVersion: 2
       Hash: 6980e81ddc615a861309d2d659cc3760
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -904,6 +952,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Victory
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.2D.Animation.Runtime.dll
+    namespaceName: UnityEngine.U2D.Animation
+    className: BufferManager
   - hash:
       serializedVersion: 2
       Hash: 8220b46879dc5e37db1b940c938f5744
@@ -930,64 +984,10 @@ ScriptsOnlyBuild:
     className: TouchInputModule
   - hash:
       serializedVersion: 2
-      Hash: 71b711096c6c32621c1d4c02310898b7
-    assemblyName: Unity.2D.Animation.Runtime.dll
-    namespaceName: UnityEngine.U2D.Animation
-    className: SpriteSkin
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Unity.2D.Animation.Runtime.dll
-    namespaceName: UnityEngine.U2D.Animation
-    className: SpriteSkinEntity
-  - hash:
-      serializedVersion: 2
-      Hash: 59ce5902048c1041729c804e2772b2ce
-    assemblyName: Unity.2D.IK.Runtime.dll
-    namespaceName: UnityEngine.U2D.IK
-    className: CCDSolver2D
-  - hash:
-      serializedVersion: 2
-      Hash: 28cfb4bd305dd11c6326cc3ee7c14138
-    assemblyName: Unity.2D.Animation.Runtime.dll
-    namespaceName: UnityEngine.Experimental.U2D.Animation
-    className: SpriteLibraryAsset
-  - hash:
-      serializedVersion: 2
-      Hash: 9b2d72155209a515197b0788f9f11a91
-    assemblyName: Unity.2D.IK.Runtime.dll
-    namespaceName: UnityEngine.U2D.IK
-    className: LimbSolver2D
-  - hash:
-      serializedVersion: 2
-      Hash: 87cef3c82381dc586f6772c3e27561b6
-    assemblyName: Unity.2D.Animation.Runtime.dll
-    namespaceName: UnityEngine.Experimental.U2D.Animation
-    className: SpriteLibrary
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Unity.2D.Animation.Runtime.dll
-    namespaceName: UnityEngine.U2D.Animation
-    className: BufferManager
-  - hash:
-      serializedVersion: 2
       Hash: 762a30c8d779b11af16ed9ce1f2d32fa
     assemblyName: Unity.2D.IK.Runtime.dll
     namespaceName: UnityEngine.U2D.IK
     className: FabrikSolver2D
-  - hash:
-      serializedVersion: 2
-      Hash: cfdd0010efd7b54c2b7512656dbc9119
-    assemblyName: Unity.2D.IK.Runtime.dll
-    namespaceName: UnityEngine.U2D.IK
-    className: IKManager2D
-  - hash:
-      serializedVersion: 2
-      Hash: b424b4eeb810aecb0ff91c62639241e9
-    assemblyName: Unity.2D.Animation.Runtime.dll
-    namespaceName: UnityEngine.Experimental.U2D.Animation
-    className: SpriteResolver
   platform: 19
   scenePathNames:
   - Assets/Scene/Start Scene.unity
@@ -995,4 +995,5 @@ ScriptsOnlyBuild:
   - Assets/Scene/Level 2.unity
   - Assets/Scene/Level 3.unity
   - Assets/Scene/End Scene.unity
-  playerPath: C:/Users/Daniel/Desktop/University/CS 4483/Game Demo/Instacart Jumper.exe
+  playerPath: C:/Users/amanp/Unity Games/2DPlatformer/Instacart Jumper Game/Instacart
+    Jumper.exe
