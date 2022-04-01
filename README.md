@@ -4,6 +4,9 @@
 the objective of the game is simple:
 navigate through the levels until you get to the final flag while collecting all the cherry's you can!
 
+Movements - up, down, left, and right
+Jump - spacebar
+
 game created by:
 Amanpreet Gill - agill292@uwo.ca
 Daniel Lou - dlou6@uwo.ca
