@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Collectable
   - Trap
+  - Trampoline
   layers:
   - Default
   - TransparentFX

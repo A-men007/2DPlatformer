@@ -85,3 +85,7 @@ public class PlayerMovement : MonoBehaviour
         return Physics2D.BoxCast(collider.bounds.center, collider.bounds.size, 0f, Vector2.down, .1f, jumpableGround);
     }
 }
+
+
+
+
