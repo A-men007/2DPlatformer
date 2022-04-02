@@ -13,6 +13,6 @@ Game file found in 2DPlatformer/Instacart Jumper Game/Instacart Jumper.exe
 
 ## Game Co-Creators:
 Amanpreet Gill - agill292@uwo.ca,
-Daniel Lou - dlou6@uwo.ca,
+Dan Lou - dlou6@uwo.ca,
 Muhammad Askri - maskri@uwo.ca,
 Syed Abdullah Tufail - stufail@uwo.ca
